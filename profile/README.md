@@ -4,6 +4,7 @@ We are people who make good open-source projects just for fun
 - MB (MusicBridge)
   - [API Docs](https://github.com/NoVelocity/MB-API)
   - [Provider - Yandex](https://github.com/NoVelocity/MB-P-Yandex)
+  - [Provider - Spotify (Very unstable)](https://github.com/NoVelocity/MB-P-Spotify)
   - [Client - Web](https://github.com/NoVelocity/MB-C-Web)
 - NVS (NoVelocity Sorter)
   - [Core](https://github.com/NoVelocity/NVS-Core)
